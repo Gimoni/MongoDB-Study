@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gimoni/social-media-app.git/static/css/main.39887332.css",
-    "main.js": "/Gimoni/social-media-app.git/static/js/main.6d084bda.js",
-    "index.html": "/Gimoni/social-media-app.git/index.html",
-    "main.39887332.css.map": "/Gimoni/social-media-app.git/static/css/main.39887332.css.map",
-    "main.6d084bda.js.map": "/Gimoni/social-media-app.git/static/js/main.6d084bda.js.map"
+    "main.css": "/social-media-app/static/css/main.39887332.css",
+    "main.js": "/social-media-app/static/js/main.6d084bda.js",
+    "index.html": "/social-media-app/index.html",
+    "main.39887332.css.map": "/social-media-app/static/css/main.39887332.css.map",
+    "main.6d084bda.js.map": "/social-media-app/static/js/main.6d084bda.js.map"
   },
   "entrypoints": [
     "static/css/main.39887332.css",
