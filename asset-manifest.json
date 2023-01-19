@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gimoni/social-media-app.git/static/css/main.39887332.css",
+    "main.js": "/Gimoni/social-media-app.git/static/js/main.6d084bda.js",
+    "index.html": "/Gimoni/social-media-app.git/index.html",
+    "main.39887332.css.map": "/Gimoni/social-media-app.git/static/css/main.39887332.css.map",
+    "main.6d084bda.js.map": "/Gimoni/social-media-app.git/static/js/main.6d084bda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39887332.css",
+    "static/js/main.6d084bda.js"
+  ]
+}
